@@ -33,10 +33,3 @@ $$\text{Future Cost} = \text{Current Cost} \times (1 + \text{Inflation Rate})^n$
 
 *(Where $n$ is the number of years)* ⏳
 
-### 📅 Current Snapshot (2026)
-
-As of **March 2026**, India’s retail inflation is hovering around **3.21%** 📈. While this is relatively stable, the cumulative effect over 10–20 years can still double the price of your favorite lifestyle expenses!
-
----
-
-**Would you like me to calculate the future value of a specific amount for you, or perhaps generate a table showing how much ₹10,000 has devalued over the last 20 years?**
